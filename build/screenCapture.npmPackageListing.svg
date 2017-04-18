@@ -1,0 +1,141 @@
+<svg height="2206" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2206" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 00:08:04 +0000  2027021 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 00:08:04 +0000     5131 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 00:08:04 +0000     1069 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 00:08:04 +0000    12364 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 00:08:04 +0000    82071 bytes  angoose-client-generated.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 00:08:04 +0000      427 bytes  debugger.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 00:08:04 +0000     3177 bytes  docs/AngooseContext.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 00:08:04 +0000     5879 bytes  docs/Context.html</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 00:08:04 +0000     7308 bytes  docs/Model.html</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 00:08:04 +0000     5414 bytes  docs/Principal.html</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 00:08:04 +0000     9527 bytes  docs/Remotable.html</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 00:08:04 +0000    12322 bytes  docs/Schema.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 00:08:04 +0000     5735 bytes  docs/Service.html</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 00:08:04 +0000    39908 bytes  docs/angoose.html</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 00:08:04 +0000     9246 bytes  docs/docco.css</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 00:08:04 +0000    29804 bytes  docs/public/fonts/aller-bold.eot</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 00:08:04 +0000    66836 bytes  docs/public/fonts/aller-bold.ttf</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 00:08:04 +0000    33244 bytes  docs/public/fonts/aller-bold.woff</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 00:08:04 +0000    29509 bytes  docs/public/fonts/aller-light.eot</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 00:08:04 +0000    68620 bytes  docs/public/fonts/aller-light.ttf</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 00:08:04 +0000    33124 bytes  docs/public/fonts/aller-light.woff</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 00:08:04 +0000    35557 bytes  docs/public/fonts/fleurons.eot</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 00:08:04 +0000    64772 bytes  docs/public/fonts/fleurons.ttf</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 00:08:04 +0000    36284 bytes  docs/public/fonts/fleurons.woff</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 00:08:04 +0000    18190 bytes  docs/public/fonts/novecento-bold.eot</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 00:08:04 +0000    48136 bytes  docs/public/fonts/novecento-bold.ttf</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 00:08:04 +0000    20576 bytes  docs/public/fonts/novecento-bold.woff</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 00:08:04 +0000    56906 bytes  docs/public/images/gray.png</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 00:08:04 +0000     6874 bytes  docs/public/stylesheets/normalize.css</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 00:08:04 +0000    10355 bytes  extensions/angoose-authorization.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 00:08:04 +0000     6678 bytes  extensions/angoose-mongoose.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 00:08:04 +0000      882 bytes  extensions/angoose-ui/angular-modules.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 00:08:04 +0000     2966 bytes  extensions/angoose-ui/controllers/datepicker.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 00:08:04 +0000     8111 bytes  extensions/angoose-ui/controllers/file.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 00:08:04 +0000     2688 bytes  extensions/angoose-ui/controllers/s3file.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 00:08:04 +0000      776 bytes  extensions/angoose-ui/controllers/select.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 00:08:04 +0000     5952 bytes  extensions/angoose-ui/controllers/selector.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 00:08:04 +0000     1345 bytes  extensions/angoose-ui/directives/ang-array.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 00:08:04 +0000     2369 bytes  extensions/angoose-ui/directives/ang-date-range-\</tspan>
+<tspan x="10" y="650">picker.js</tspan>
+<tspan x="10" y="666"> 39.  2017-04-18 00:08:04 +0000     5306 bytes  extensions/angoose-ui/directives/ang-edit.js</tspan>
+<tspan x="10" y="682"> 40.  2017-04-18 00:08:04 +0000    13283 bytes  extensions/angoose-ui/directives/ang-field.js</tspan>
+<tspan x="10" y="698"> 41.  2017-04-18 00:08:04 +0000     2128 bytes  extensions/angoose-ui/directives/ang-filter-by.j\</tspan>
+<tspan x="10" y="714">s</tspan>
+<tspan x="10" y="730"> 42.  2017-04-18 00:08:04 +0000     9636 bytes  extensions/angoose-ui/directives/ang-list.js</tspan>
+<tspan x="10" y="746"> 43.  2017-04-18 00:08:04 +0000     2352 bytes  extensions/angoose-ui/directives/ang-paginator.j\</tspan>
+<tspan x="10" y="762">s</tspan>
+<tspan x="10" y="778"> 44.  2017-04-18 00:08:04 +0000     2874 bytes  extensions/angoose-ui/directives/ang-render.js</tspan>
+<tspan x="10" y="794"> 45.  2017-04-18 00:08:04 +0000     2253 bytes  extensions/angoose-ui/directives/ang-sortable.js</tspan>
+<tspan x="10" y="810"> 46.  2017-04-18 00:08:04 +0000     2627 bytes  extensions/angoose-ui/directives/ang-sublist.js</tspan>
+<tspan x="10" y="826"> 47.  2017-04-18 00:08:04 +0000      251 bytes  extensions/angoose-ui/filters/camelcase.js</tspan>
+<tspan x="10" y="842"> 48.  2017-04-18 00:08:04 +0000      350 bytes  extensions/angoose-ui/filters/shorten.js</tspan>
+<tspan x="10" y="858"> 49.  2017-04-18 00:08:04 +0000      166 bytes  extensions/angoose-ui/filters/trustAsHtml.js</tspan>
+<tspan x="10" y="874"> 50.  2017-04-18 00:08:04 +0000     3306 bytes  extensions/angoose-ui/index.js</tspan>
+<tspan x="10" y="890"> 51.  2017-04-18 00:08:04 +0000     1951 bytes  extensions/angoose-ui/services/alerts.js</tspan>
+<tspan x="10" y="906"> 52.  2017-04-18 00:08:04 +0000     1184 bytes  extensions/angoose-ui/services/ui-form.js</tspan>
+<tspan x="10" y="922"> 53.  2017-04-18 00:08:04 +0000     2313 bytes  extensions/angoose-ui/services/ui-query.js</tspan>
+<tspan x="10" y="938"> 54.  2017-04-18 00:08:04 +0000     2628 bytes  extensions/angoose-ui/services/ui-routes.js</tspan>
+<tspan x="10" y="954"> 55.  2017-04-18 00:08:04 +0000    12151 bytes  extensions/angoose-ui/services/ui-service.js</tspan>
+<tspan x="10" y="970"> 56.  2017-04-18 00:08:04 +0000      941 bytes  extensions/angoose-ui/tpl/deform.array.tpl</tspan>
+<tspan x="10" y="986"> 57.  2017-04-18 00:08:04 +0000     1144 bytes  extensions/angoose-ui/tpl/deform.create.tpl</tspan>
+<tspan x="10" y="1002"> 58.  2017-04-18 00:08:04 +0000     1148 bytes  extensions/angoose-ui/tpl/deform.edit.tpl</tspan>
+<tspan x="10" y="1018"> 59.  2017-04-18 00:08:04 +0000      402 bytes  extensions/angoose-ui/tpl/deform.field.checkbox.\</tspan>
+<tspan x="10" y="1034">tpl</tspan>
+<tspan x="10" y="1050"> 60.  2017-04-18 00:08:04 +0000     1813 bytes  extensions/angoose-ui/tpl/deform.field.datepicke\</tspan>
+<tspan x="10" y="1066">r.tpl</tspan>
+<tspan x="10" y="1082"> 61.  2017-04-18 00:08:04 +0000     1591 bytes  extensions/angoose-ui/tpl/deform.field.file.tpl</tspan>
+<tspan x="10" y="1098"> 62.  2017-04-18 00:08:04 +0000      473 bytes  extensions/angoose-ui/tpl/deform.field.input.tpl</tspan>
+<tspan x="10" y="1114"> 63.  2017-04-18 00:08:04 +0000      263 bytes  extensions/angoose-ui/tpl/deform.field.readonly.\</tspan>
+<tspan x="10" y="1130">tpl</tspan>
+<tspan x="10" y="1146"> 64.  2017-04-18 00:08:04 +0000      442 bytes  extensions/angoose-ui/tpl/deform.field.redactor.\</tspan>
+<tspan x="10" y="1162">tpl</tspan>
+<tspan x="10" y="1178"> 65.  2017-04-18 00:08:04 +0000     1294 bytes  extensions/angoose-ui/tpl/deform.field.s3file.tp\</tspan>
+<tspan x="10" y="1194">l</tspan>
+<tspan x="10" y="1210"> 66.  2017-04-18 00:08:04 +0000      396 bytes  extensions/angoose-ui/tpl/deform.field.select.tp\</tspan>
+<tspan x="10" y="1226">l</tspan>
+<tspan x="10" y="1242"> 67.  2017-04-18 00:08:04 +0000      644 bytes  extensions/angoose-ui/tpl/deform.field.selector.\</tspan>
+<tspan x="10" y="1258">tpl</tspan>
+<tspan x="10" y="1274"> 68.  2017-04-18 00:08:04 +0000      366 bytes  extensions/angoose-ui/tpl/deform.field.textarea.\</tspan>
+<tspan x="10" y="1290">tpl</tspan>
+<tspan x="10" y="1306"> 69.  2017-04-18 00:08:04 +0000     1193 bytes  extensions/angoose-ui/tpl/deform.field.url.tpl</tspan>
+<tspan x="10" y="1322"> 70.  2017-04-18 00:08:04 +0000     2686 bytes  extensions/angoose-ui/tpl/deform.list.tpl</tspan>
+<tspan x="10" y="1338"> 71.  2017-04-18 00:08:04 +0000     1428 bytes  extensions/angoose-ui/tpl/deform.sublist.tpl</tspan>
+<tspan x="10" y="1354"> 72.  2017-04-18 00:08:04 +0000     1235 bytes  extensions/angoose-ui/tpl/deform.subschema.tpl</tspan>
+<tspan x="10" y="1370"> 73.  2017-04-18 00:08:04 +0000     1147 bytes  extensions/angoose-ui/tpl/deform.view.tpl</tspan>
+<tspan x="10" y="1386"> 74.  2017-04-18 00:08:04 +0000       97 bytes  extensions/angoose-users/index.js</tspan>
+<tspan x="10" y="1402"> 75.  2017-04-18 00:08:04 +0000     1981 bytes  extensions/angoose-users/login-service.js</tspan>
+<tspan x="10" y="1418"> 76.  2017-04-18 00:08:04 +0000     2137 bytes  extensions/angoose-users/user-model.js</tspan>
+<tspan x="10" y="1434"> 77.  2017-04-18 00:08:04 +0000     5335 bytes  lib/Bundle.js</tspan>
+<tspan x="10" y="1450"> 78.  2017-04-18 00:08:04 +0000     1246 bytes  lib/Context.js</tspan>
+<tspan x="10" y="1466"> 79.  2017-04-18 00:08:04 +0000      519 bytes  lib/Exception.js</tspan>
+<tspan x="10" y="1482"> 80.  2017-04-18 00:08:04 +0000     2080 bytes  lib/Model.js</tspan>
+<tspan x="10" y="1498"> 81.  2017-04-18 00:08:04 +0000    13478 bytes  lib/Pipeline.js</tspan>
+<tspan x="10" y="1514"> 82.  2017-04-18 00:08:04 +0000     1144 bytes  lib/Principal.js</tspan>
+<tspan x="10" y="1530"> 83.  2017-04-18 00:08:04 +0000     5626 bytes  lib/Remotable.js</tspan>
+<tspan x="10" y="1546"> 84.  2017-04-18 00:08:04 +0000     1864 bytes  lib/Service.js</tspan>
+<tspan x="10" y="1562"> 85.  2017-04-18 00:08:04 +0000    19867 bytes  lib/angoose.js</tspan>
+<tspan x="10" y="1578"> 86.  2017-04-18 00:08:04 +0000     5398 bytes  lib/client/angoose-angular.js</tspan>
+<tspan x="10" y="1594"> 87.  2017-04-18 00:08:04 +0000    13416 bytes  lib/client/angoose-client.js</tspan>
+<tspan x="10" y="1610"> 88.  2017-04-18 00:08:04 +0000    58341 bytes  lib/client/angoose-jquery.js</tspan>
+<tspan x="10" y="1626"> 89.  2017-04-18 00:08:04 +0000     3307 bytes  lib/client/angoose-node.js</tspan>
+<tspan x="10" y="1642"> 90.  2017-04-18 00:08:04 +0000     5023 bytes  lib/util/classy.js</tspan>
+<tspan x="10" y="1658"> 91.  2017-04-18 00:08:04 +0000     9029 bytes  lib/util/toolbox.js</tspan>
+<tspan x="10" y="1674"> 92.  2017-04-18 00:08:04 +0000     1079 bytes  models/SampleService.js</tspan>
+<tspan x="10" y="1690"> 93.  2017-04-18 00:08:04 +0000     2295 bytes  models/SampleUser.js</tspan>
+<tspan x="10" y="1706"> 94.  2017-04-18 00:08:04 +0000      335 bytes  models/SampleUserGroup.js</tspan>
+<tspan x="10" y="1722"> 95.  2017-04-18 00:08:04 +0000      315 bytes  models/Todo.js</tspan>
+<tspan x="10" y="1738"> 96.  2017-04-18 00:08:04 +0000     2607 bytes  package.json</tspan>
+<tspan x="10" y="1754"> 97.  2017-04-18 00:08:04 +0000     3331 bytes  public/index.html</tspan>
+<tspan x="10" y="1770"> 98.  2017-04-18 00:08:04 +0000     3190 bytes  public/todo-angular-app.js</tspan>
+<tspan x="10" y="1786"> 99.  2017-04-18 00:08:04 +0000     1867 bytes  test/angoose-spec.js</tspan>
+<tspan x="10" y="1802">100.  2017-04-18 00:08:04 +0000     5165 bytes  test/auth-spec.js</tspan>
+<tspan x="10" y="1818">101.  2017-04-18 00:08:04 +0000     1191 bytes  test/config-spec.js</tspan>
+<tspan x="10" y="1834">102.  2017-04-18 00:08:04 +0000     6333 bytes  test/context-spec.js</tspan>
+<tspan x="10" y="1850">103.  2017-04-18 00:08:04 +0000     1349 bytes  test/exception-spec.js</tspan>
+<tspan x="10" y="1866">104.  2017-04-18 00:08:04 +0000     7603 bytes  test/hooks-spec.js</tspan>
+<tspan x="10" y="1882">105.  2017-04-18 00:08:04 +0000        0 bytes  test/lib/angular-test-app.js</tspan>
+<tspan x="10" y="1898">106.  2017-04-18 00:08:04 +0000      606 bytes  test/lib/angular-test-server.js</tspan>
+<tspan x="10" y="1914">107.  2017-04-18 00:08:04 +0000    36540 bytes  test/lib/angular/angular-animate.js</tspan>
+<tspan x="10" y="1930">108.  2017-04-18 00:08:04 +0000     5674 bytes  test/lib/angular/angular-cookies.js</tspan>
+<tspan x="10" y="1946">109.  2017-04-18 00:08:04 +0000    10906 bytes  test/lib/angular/angular-loader.js</tspan>
+<tspan x="10" y="1962">110.  2017-04-18 00:08:04 +0000    62862 bytes  test/lib/angular/angular-mocks.js</tspan>
+<tspan x="10" y="1978">111.  2017-04-18 00:08:04 +0000    22531 bytes  test/lib/angular/angular-resource.js</tspan>
+<tspan x="10" y="1994">112.  2017-04-18 00:08:04 +0000    30052 bytes  test/lib/angular/angular-route.js</tspan>
+<tspan x="10" y="2010">113.  2017-04-18 00:08:04 +0000    18346 bytes  test/lib/angular/angular-sanitize.js</tspan>
+<tspan x="10" y="2026">114.  2017-04-18 00:08:04 +0000    20484 bytes  test/lib/angular/angular-touch.js</tspan>
+<tspan x="10" y="2042">115.  2017-04-18 00:08:04 +0000   737843 bytes  test/lib/angular/angular.js</tspan>
+<tspan x="10" y="2058">116.  2017-04-18 00:08:04 +0000     7223 bytes  test/model-spec.js</tspan>
+<tspan x="10" y="2074">117.  2017-04-18 00:08:04 +0000      834 bytes  test/overwire-spec.js</tspan>
+<tspan x="10" y="2090">118.  2017-04-18 00:08:04 +0000     1720 bytes  test/remotable-spec.js</tspan>
+<tspan x="10" y="2106">119.  2017-04-18 00:08:04 +0000     2198 bytes  test/schema-spec.js</tspan>
+<tspan x="10" y="2122">120.  2017-04-18 00:08:04 +0000     1792 bytes  test/server.js</tspan>
+<tspan x="10" y="2138">121.  2017-04-18 00:08:04 +0000     1360 bytes  test/service-spec.js</tspan>
+<tspan x="10" y="2154">122.  2017-04-18 00:08:04 +0000     2706 bytes  test/test-util.js</tspan>
+<tspan x="10" y="2170">123.  2017-04-18 00:08:04 +0000     1219 bytes  test/tool-spec.js</tspan>
+<tspan x="10" y="2186">124.  2017-04-18 00:08:04 +0000     2080 bytes  test/ui/list-spec.js</tspan>
+</text>
+</svg>

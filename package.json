@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [angoose (v0.3.21)](https://github.com/tjworks/angoose) [![npm package](https://img.shields.io/npm/v/npmtest-angoose.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angoose) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angoose.svg)](https://travis-ci.org/npmtest/node-npmtest-angoose)",
+    "description": "#### basic test coverage for  [angoose (v0.3.21)](https://github.com/tjworks/angoose)  [![npm package](https://img.shields.io/npm/v/npmtest-angoose.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angoose) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angoose.svg)](https://travis-ci.org/npmtest/node-npmtest-angoose)",
     "devDependencies": {
         "angoose": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",

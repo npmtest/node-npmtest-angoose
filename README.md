@@ -1,4 +1,7 @@
-# test coverage for  [angoose (v0.3.21)](https://github.com/tjworks/angoose)  [![npm package](https://img.shields.io/npm/v/npmtest-angoose.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angoose) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angoose.svg)](https://travis-ci.org/npmtest/node-npmtest-angoose)
+# npmtest-angoose
+
+#### basic test coverage for  [angoose (v0.3.21)](https://github.com/tjworks/angoose)  [![npm package](https://img.shields.io/npm/v/npmtest-angoose.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angoose) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angoose.svg)](https://travis-ci.org/npmtest/node-npmtest-angoose)
+
 #### Angoose is a Remote Method Invocation module that comes with built-in mongoose/angular support. Now you can call server side module in browser just like you're in the server side!
 
 [![NPM](https://nodei.co/npm/angoose.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angoose)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-angoose/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-angoose/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-angoose/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-angoose/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-angoose/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-angoose/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-angoose/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-angoose/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-angoose/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-angoose/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-angoose/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-angoose/build/coverage.html/index.html)
 
@@ -94,7 +97,8 @@
     "scripts": {
         "test": "test"
     },
-    "version": "0.3.21"
+    "version": "0.3.21",
+    "bin": {}
 }
 ```
 
